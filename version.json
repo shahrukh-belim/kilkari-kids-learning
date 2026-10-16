@@ -1,0 +1,15 @@
+{
+  "latest_version": "2.5.0",
+  "minimum_supported_version": "2.0.0",
+  "force_update": false,
+  "release_date": "16 Oct 2026",
+  "update_message": "",
+  "release_notes": {
+    "new_features": ["Added a new rhymes player"],
+    "improvements": ["Faster app startup"],
+    "bug_fixes": ["Fixed audio cutting out in games"],
+    "important": []
+  },
+  "android_store_url": "https://play.google.com/store/apps/details?id=com.littlegenius.kilkarikids.learning",
+  "ios_store_url": ""
+}
